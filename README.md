@@ -1,6 +1,7 @@
 # TRANSACTION-SERVICE
-Service for maintaining transaction, with parent child relation, for each parent there are multiple childs, 
-Main api, For this we use Closure table based approach.  
+Service for maintaining transaction, with parent child relation, for one parent, there may be n childs, for stroing 
+child parent relation we are using Closure table based approach. 
+
 
 ## Getting Started
 * Execute ```$mvn clean install```
