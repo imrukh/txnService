@@ -1,5 +1,5 @@
 # TRANSACTION-SERVICE
-Service for maintaining transaction, with parent child relation, for one parent, there may be n childs, for stroing 
+Service for maintaining transaction with parent child relation, for one parent there may be N childs, For stroing 
 child parent relation we are using Closure table based approach. 
 
 
